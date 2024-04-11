@@ -5,13 +5,13 @@
 ## 👥 팀원 및 업무 분담
 
 - **조상천**: 개발세팅, DB 작성 및 수정, 영화 관련 정보 백/프론트 구현
-  - Github: https://github.com/highsky134
+
 - **권상지**:  사용자 서버코드 작성, 마이페이지, 리뷰 수정,삭제, 관심있는 영화목록 
-  - Github: https://github.com/qwr133
+
 - **조성훈**: 로그인, 회원가입, 정보수정 CSS, HTML ,db자료조사 및 등록
-  - Github: https://github.com/nuhgnoesoj
+
 - **최재경**: 전반적인 HTML, CSS 작성, 파일 업로드, 세션, 인터셉터, 관리자 권한, 그 외 서포트
-  - Github: https://github.com/Bcacao
+  
 <br>
 
 ## 📆 개발 계획
@@ -37,7 +37,7 @@
 
 - **Front-end** : HTML, CSS, JS
   
-- **Back-end** : SpringBoot, MariaDB
+- **Back-end** : SpringBoot, MariaDB, JSP
   
 
 <br>
